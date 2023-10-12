@@ -7,7 +7,6 @@ This application is a simple API that collects data from a form contact and send
 ### Tecnologias
 
 - [NestJS](https://nestjs.com/)
-- [Express](https://expressjs.com/pt-br/)
 - [Nodemailer](https://nodemailer.com/about/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [cors](https://www.npmjs.com/package/cors)
